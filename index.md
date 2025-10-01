@@ -3,7 +3,7 @@ title: "📅 Training Schedule"
 layout: default
 ---
 
-<!-- Navbar block goes here -->
+{% include navbar.html %}
 
 # 📅 Training Schedule
 
