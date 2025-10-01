@@ -8,7 +8,7 @@ layout: default
 # Training Schedule
 
 Welcome to the training program! Below is the schedule.  
-Click the topic titles to download datasets (they will open in a new tab).
+
 
 | Time          | Topic                                                                 | Resource Person   |
 |---------------|----------------------------------------------------------------------|------------------|
