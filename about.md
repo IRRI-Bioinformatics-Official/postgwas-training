@@ -1,5 +1,5 @@
 ---
-title: "ℹ️ About"
+title: "About"
 layout: default
 ---
 
