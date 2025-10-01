@@ -1,4 +1,0 @@
-/* Prevent wrapping of time column */
-table td:first-child {
-  white-space: nowrap;
-}
