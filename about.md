@@ -3,7 +3,7 @@ title: "ℹ️ About"
 layout: default
 ---
 
-<!-- Navbar block goes here -->
+{% include navbar.html %}
 
 # ℹ️ About
 
