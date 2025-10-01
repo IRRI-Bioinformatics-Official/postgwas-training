@@ -3,7 +3,7 @@ title: "📂 Datasets"
 layout: default
 ---
 
-<!-- Navbar block goes here -->
+{% include navbar.html %}
 
 # 📂 Datasets
 
