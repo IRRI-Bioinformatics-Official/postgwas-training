@@ -1,0 +1,93 @@
+<style>
+/* Navbar container */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #ffffff;
+  border-bottom: 2px solid #eaecef;
+  z-index: 1000;
+  font-family: sans-serif;
+}
+
+/* Navbar links */
+.navbar a {
+  display: inline-block;
+  color: white;
+  background: #0366d6;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.navbar a:hover {
+  background: #0255b3;
+}
+
+/* Active page underline */
+.navbar a.active {
+  border-bottom: 3px solid yellow;
+}
+
+/* Hamburger (hidden on desktop) */
+.navbar .icon {
+  display: none;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 10px;
+  color: #0366d6;
+  float: right;
+}
+
+/* Responsive behavior */
+@media screen and (max-width: 600px) {
+  .navbar a { display: none; }
+  .navbar a.icon {
+    display: block;
+  }
+  .navbar.responsive { position: fixed; }
+  .navbar.responsive a {
+    display: block;
+    text-align: center;
+    margin: 5px 0;
+  }
+}
+</style>
+
+<!-- Navbar HTML -->
+<div class="navbar" id="topNav">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  <a href="{{ '/datasets.html' | relative_url }}">Datasets</a>
+  <a href="{{ '/about.html' | relative_url }}">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="toggleNav()">☰</a>
+</div>
+
+<!-- Spacer so content isn’t hidden under navbar -->
+<div style="height:70px;"></div>
+
+<script>
+function toggleNav() {
+  var x = document.getElementById("topNav");
+  if (x.className === "navbar") {
+    x.className += " responsive";
+  } else {
+    x.className = "navbar";
+  }
+}
+
+// Auto-highlight active page
+document.addEventListener("DOMContentLoaded", function () {
+  var navLinks = document.querySelectorAll(".navbar a[href]");
+  var current = window.location.pathname.split("/").pop();
+  if (current === "" || current === "/") current = "index.html"; // default to home
+  navLinks.forEach(function (link) {
+    if (link.getAttribute("href").includes(current)) {
+      link.classList.add("active");
+    }
+  });
+});
+</script>
