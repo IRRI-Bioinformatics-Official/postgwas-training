@@ -5,7 +5,7 @@ layout: default
 
 {% include navbar.html %}
 
-# ℹ️ About
+# About
 
 A hands-on training workshop on Post-GWAS Analysis Using SNP-Seek and RicePilaf. This in-depth session is designed for researchers looking to advance their skills in candidate gene analyses.
 
