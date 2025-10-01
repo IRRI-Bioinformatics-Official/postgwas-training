@@ -1,5 +1,5 @@
 ---
-title: "📂 Datasets"
+title: "Datasets"
 layout: default
 ---
 
