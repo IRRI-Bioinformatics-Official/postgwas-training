@@ -26,3 +26,7 @@ A hands-on training workshop on Post-GWAS Analysis Using SNP-Seek and RicePilaf.
 ## What to Bring: 
 
 * Please bring your laptop. All datasets will be provided.
+
+## For more information on the Bioinformatics team:
+
+* <a href="https://bioinfo.irri.org/" target="_blank">Bioinformatics Unit</a>, Breeding Innovations and Informatics Cluster, Rice Breeding Innovations Department, International Rice Research Institute
