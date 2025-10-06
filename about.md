@@ -13,7 +13,8 @@ A hands-on training workshop on Post-GWAS Analysis Using SNP-Seek and RicePilaf.
 
 * <a href="https://snpseek.irri.org/" target="_blank">SNP-Seek</a> version 3 is an online web application that provides a user-friendly, comprehensive database for the genetic variations, phenotypes, and variety information of the 3500 rice genomes accessions.
 
-* <a href="https://ricepilaf.irri.org/" target="_blank">RicePilaf</a> is a web-based post-GWAS/QTL application that integrates pangenomic, coexpression, regulatory, epigenomic, ontology, pathway, and text-mining information. It aims to provide functional insights into rice QTLs and GWAS regions identified from QTL and GWAS mapping studies. Alternate servers: <a href="https://ricepilaf.ird.fr/" target="_blank">RicePilaf IRD</a> and <a href="https://ricepilaf.bioinfodlsu.com/" target="_blank">RicePilaf DLSU</a>
+* <a href="https://ricepilaf.irri.org/" target="_blank">RicePilaf</a> is a web-based post-GWAS/QTL application that integrates pangenomic, coexpression, regulatory, epigenomic, ontology, pathway, and text-mining information. It aims to provide functional insights into rice QTLs and GWAS regions identified from QTL and GWAS mapping studies. <br>
+Alternate servers: <a href="https://ricepilaf.ird.fr/" target="_blank">RicePilaf IRD</a> and <a href="https://ricepilaf.bioinfodlsu.com/" target="_blank">RicePilaf DLSU</a>
 
 ## What You'll Learn:
 
