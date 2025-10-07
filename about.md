@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Training Information"
 layout: default
 ---
 
