@@ -13,8 +13,8 @@ table th:nth-child(3) {
 
 /* Override Cayman theme header height */
 .page-header {
-  padding-top: 1rem !important;
-  padding-bottom: 1rem !important;
+/*  padding-top: 1rem !important; */
+/*  padding-bottom: 1rem !important; */
   min-height: auto !important;
 }
 
