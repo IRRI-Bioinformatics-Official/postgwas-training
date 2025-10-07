@@ -5,10 +5,7 @@ layout: default
 
 {% include navbar.html %}
 
-# Training Schedule
-
 Welcome to the training program! Below is the schedule.  
-
 
 | Time          | Topic                                                                 | Resource Person   |
 |---------------|----------------------------------------------------------------------|------------------|
