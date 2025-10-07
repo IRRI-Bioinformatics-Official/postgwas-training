@@ -5,8 +5,6 @@ layout: default
 
 {% include navbar.html %}
 
-Welcome to the training program! Below is the schedule.  
-
 | Time          | Topic                                                                 | Resource Person   |
 |---------------|----------------------------------------------------------------------|------------------|
 | 09:00 - 09:15H | Welcome and Introduction | Ramil "Mau" Mauleon |
