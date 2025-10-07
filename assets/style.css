@@ -10,3 +10,10 @@ table th:nth-child(3) {
 .btn {
   display: none !important;
 }
+
+/* Override Cayman theme header height */
+.page-header {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+  min-height: auto !important;
+}
