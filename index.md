@@ -1,5 +1,5 @@
 ---
-title: "SNP-Seek V3 and Rice Pilaf for Post-GWAS Analysis"
+title: "Schedule"
 layout: default
 ---
 
