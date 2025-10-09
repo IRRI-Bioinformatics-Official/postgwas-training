@@ -13,3 +13,6 @@ layout: default
 | 11:00 - 11:15H | Introduction to <a href="https://ricepilaf.irri.org/" target="_blank">RicePilaf</a>. <br> Alternate servers: <a href="https://ricepilaf.ird.fr/" target="_blank">RicePilaf IRD</a> and <a href="https://ricepilaf.bioinfodlsu.com/" target="_blank">RicePilaf DLSU</a> | Pierre Larmande |
 | 11:15 - 11:50H | RicePilaf Use Cases | Pierre/Mau|
 | 11:50 - 12:00H | Closing | Bioinformatics Team |
+
+# Video Recording
+- <a href="https://cgiar-my.sharepoint.com/:v:/g/personal/j_detras_cgiar_org/EVIqnp28IkpAoEsKmRj1DwQB8ZsmEWf7RDmVuQMbZdpxBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hSjaSY" target="_blank">Microsoft Teams Recording</a>
