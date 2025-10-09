@@ -15,4 +15,4 @@ layout: default
 | 11:50 - 12:00H | Closing | Bioinformatics Team |
 
 # Video Recording
-- <a href="https://cgiar-my.sharepoint.com/:v:/g/personal/j_detras_cgiar_org/EVIqnp28IkpAoEsKmRj1DwQB8ZsmEWf7RDmVuQMbZdpxBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hSjaSY" target="_blank">Microsoft Teams Recording</a>
+- Due to technical issues, Navigating SNP-Seek and the use case was moved after the RicePilaf session. Please see the recording here: <a href="https://cgiar-my.sharepoint.com/:v:/g/personal/j_detras_cgiar_org/EVIqnp28IkpAoEsKmRj1DwQB8ZsmEWf7RDmVuQMbZdpxBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hSjaSY" target="_blank">Microsoft Teams Recording</a>
