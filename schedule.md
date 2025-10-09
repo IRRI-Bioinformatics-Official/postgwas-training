@@ -16,3 +16,6 @@ layout: default
 
 # Video Recording
 - Due to technical issues, Navigating SNP-Seek and the use case was moved after the RicePilaf session. Please see the recording here: <a href="https://cgiar-my.sharepoint.com/:v:/g/personal/j_detras_cgiar_org/EVIqnp28IkpAoEsKmRj1DwQB8ZsmEWf7RDmVuQMbZdpxBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hSjaSY" target="_blank">Microsoft Teams Recording</a>
+
+# Slide Deck
+* <a href="https://cgiar-my.sharepoint.com/:b:/g/personal/j_detras_cgiar_org/EVBKFQMyE8NPiKUUZE-6S4QBgSxip-8Hcvkfa7Y7-vuutg?e=bjeMUp" target="_blank"> Welcome and Introduction to SNP-Seek version 3</a> by Ramil Mauleon
